@@ -1,3 +1,6 @@
+# readme.txt
+
+```plaintext
 --------------------------------------------------------------------------
 Copyright (C) 2009 Christian Nentwich and contributors
 Copyright (c) 2023 Kensuke Matsuzaki
@@ -24,3 +27,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 	
 	NOTE: This directory is an eclipse project. If you have PyDev installed,
 	you can check this out directly as a standalone project. 
+```
